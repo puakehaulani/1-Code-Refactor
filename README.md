@@ -6,6 +6,7 @@ All changes to the original code are documented in notes in the index.html and s
 ## Links
 
 https://github.com/puakehaulani/bc.hw1
+
 https://puakehaulani.github.io/bc.hw1/
 
 ## Copyright
