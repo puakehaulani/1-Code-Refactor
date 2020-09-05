@@ -108,7 +108,7 @@ h3 {
   text-align: center;
 }
 
-/* combined classes tags to streamline css */
+/* combined like classes tags to streamline css */
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -136,7 +136,7 @@ h3 {
   max-height: 200px;
 }
 
-/* took classes off h2 to streamline css */
+/* took out classes h2 to streamline css */
 h2 {
   margin-bottom: 20px;
   font-size: 36px;
