@@ -17,4 +17,4 @@ All changes to the original code are documented in notes in the index.html and s
 © 2019 Trilogy Education Services, a 2U, Inc. brand.  
 All Rights Reserved.
 
-[report]: (LighthouseReport.html)
+[report]: (/LighthouseReport.html)
